@@ -64,7 +64,7 @@ export default function CampaignDetailsPage()
                     <div className="flex-1">
                         <div className="bg-white pl-12 pt-6 pb-2">
                             <div className="text-gray-700 ">
-                                <div className="bg-blue-50 border border-gray-200 rounded-lg px-4 py-3 text-sm text-gray-700 inline-flex items-center w-full">
+                                <div className="bg-blue-50 border border-gray-200 rounded-lg px-4 py-3 text-sm text-gray-700 inline-flex items-center">
 
                                     {/* <div className="w-4 h-4 rounded-full border border-gray-400 flex items-center justify-center mr-3">
                                         <div className="w-2 h-2 bg-gray-400 rounded-full"></div>
@@ -249,7 +249,7 @@ export default function CampaignDetailsPage()
                             </div>
 
                             {/* Inner Chat Area with full border */}
-                            <div className="border border-gray-300 rounded-b-4xl overflow-hidden">
+                            <div className="border border-gray-300  overflow-hidden">
                                 <div className="bg-[#F2E4D7] p-4 h-[500px]">
                                     <div className="flex justify-center">
                                         <div className="text-center text-xs text-gray-500 mb-4 bg-white px-2 py-1 rounded-full inline-block">

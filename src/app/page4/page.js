@@ -296,7 +296,7 @@ export default function CampaignDetailsPage()
                             </div>
 
                             {/* Inner Chat Area with full border */}
-                            <div className="border border-gray-300 rounded-b-4xl overflow-hidden">
+                            <div className="border border-gray-300  overflow-hidden">
                                 <div className="bg-[#F2E4D7] p-4 h-[500px]">
                                     <div className="flex justify-center">
                                         <div className="text-center text-xs text-gray-500 mb-4 bg-white px-2 py-1 rounded-full inline-block">
